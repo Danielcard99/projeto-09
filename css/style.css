@@ -526,6 +526,8 @@ section.contato input[type="submit"] {
   border: 0;
   color: white;
   font-weight: bold;
+  cursor: pointer;
+  margin-top: 10px;
 }
 
 /* Rodapé */
@@ -535,6 +537,8 @@ footer {
   background-color: #6cc5b2;
   text-align: center;
 }
+
+
 
 /* Media Queries */
 
